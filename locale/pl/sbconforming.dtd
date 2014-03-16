@@ -1,0 +1,24 @@
+<!ENTITY sbconforming.config.title "Skojarz pole wyszukiwania">
+<!ENTITY general "Ogólne">
+<!ENTITY baseDomain "Podstawa domeny">
+<!ENTITY regexps "Wyrażenia regularne">
+<!ENTITY delete "Usuń">
+<!ENTITY add "Dodaj">
+<!ENTITY advanced "Zaawansowane">
+<!ENTITY disableConformSearchBox "Nie kojarz pola wyszukiwania">
+<!ENTITY disableConformSearchBoxWhenTabSwitched "Nie kojarz pola wyszukiwania podczas przełączania kart">
+<!ENTITY disableAutomaticLearning "Wyłącz automatyczną naukę">
+<!ENTITY saveSearchWordForEachTab "Zapisuj wyszukiwane słowa w każdej karcie">
+<!ENTITY seperateRegExpWithComma "Oddzielaj każde wyrażenie regularne za pomocą przecinka.">
+<!ENTITY blackList "Niedozwolone">
+<!ENTITY disableAutomaticLearningInSitesListedHere "Wyłącz automatyczną naukę na witrynach umieszczonych poniżej">
+<!ENTITY sbcfm-registerTextBox-accesskey "O">
+<!ENTITY conformSearchBoxWithThisTextBox "Skojarz pole wyszukiwania z tym polem">
+<!ENTITY extTextBoxes "Pola zewnętrzne">
+<!ENTITY forTheExperienced "Dla doświadczonych">
+<!ENTITY conformExternalTextBox "Skojarz również pola zewnętrzne (eksperymentalne)">
+<!ENTITY descriptionOfExternalTextBoxes1 "Jeśli chcesz skojarzyć również zewnętrzne pola tekstowe, inne niż domyślne pole wyszukiwania">
+<!ENTITY descriptionOfExternalTextBoxes2 "wprowadź ID tych pól (każde ID w osobnym wierszu).">
+<!ENTITY example "Przykłady:">
+<!ENTITY googleToolbar "Google Toolbar">
+<!ENTITY googleBarLite "GoogleBar Lite">

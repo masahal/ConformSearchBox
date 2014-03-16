@@ -1,0 +1,24 @@
+<!ENTITY sbconforming.config.title "Conform the SearchBox">
+<!ENTITY general "常规">
+<!ENTITY baseDomain "基畴">
+<!ENTITY regexps "正则表达式">
+<!ENTITY delete "删除">
+<!ENTITY add "添加">
+<!ENTITY advanced "高级">
+<!ENTITY disableConformSearchBox "禁止使搜索栏内容一致">
+<!ENTITY disableConformSearchBoxWhenTabSwitched "当您只是切换标签时禁止使搜索栏一致">
+<!ENTITY disableAutomaticLearning "禁用自动学习">
+<!ENTITY saveSearchWordForEachTab "Save search words for each tab">
+<!ENTITY seperateRegExpWithComma "用逗号(',')分隔每一个正则表达式。">
+<!ENTITY blackList "黑名单">
+<!ENTITY disableAutomaticLearningInSitesListedHere "在这里列出禁用自动学习的网站">
+<!ENTITY sbcfm-registerTextBox-accesskey "C">
+<!ENTITY conformSearchBoxWithThisTextBox "使搜索栏内容与此文本框内容一致">
+<!ENTITY extTextBoxes "外部文本框">
+<!ENTITY forTheExperienced "给有经验的用户">
+<!ENTITY conformExternalTextBox "同时使外部文本框内容一致（这是测试函数）">
+<!ENTITY descriptionOfExternalTextBoxes1 "如果你也想使外部文本框内容一致（而不是默认的搜索栏），">
+<!ENTITY descriptionOfExternalTextBoxes2 "输入文本框的ID（每行一个ID）。">
+<!ENTITY example "例如：">
+<!ENTITY googleToolbar "Google Toolbar">
+<!ENTITY googleBarLite "GoogleBar Lite">

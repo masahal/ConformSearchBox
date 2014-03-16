@@ -1,0 +1,24 @@
+<!ENTITY sbconforming.config.title "検索ボックス自動入力">
+<!ENTITY general "一般">
+<!ENTITY baseDomain "ベースドメイン">
+<!ENTITY regexps "正規表現">
+<!ENTITY delete "削除">
+<!ENTITY add "追加">
+<!ENTITY advanced "詳細">
+<!ENTITY disableConformSearchBox "検索ボックスの自動入力を無効化">
+<!ENTITY disableConformSearchBoxWhenTabSwitched "タブを切り替えただけのときは自動入力しない">
+<!ENTITY disableAutomaticLearning "自動学習を無効化">
+<!ENTITY saveSearchWordForEachTab "タブごとの検索語を保存">
+<!ENTITY seperateRegExpWithComma "正規表現はカンマ(',')で区切ってください">
+<!ENTITY blackList "除外リスト">
+<!ENTITY disableAutomaticLearningInSitesListedHere "以下のサイトでは自動学習を行わない">
+<!ENTITY sbcfm-registerTextBox-accesskey "C">
+<!ENTITY conformSearchBoxWithThisTextBox "検索ボックスをこのテキストボックスと一致させる">
+<!ENTITY extTextBoxes "外部テキストボックス">
+<!ENTITY forTheExperienced "上級者向け">
+<!ENTITY conformExternalTextBox "外部テキストボックスに対しても自動入力を行う(これは試験的な機能です)">
+<!ENTITY descriptionOfExternalTextBoxes1 "デフォルトのサーチボックス以外のテキストボックスに対しても自動入力を行いたい場合、">
+<!ENTITY descriptionOfExternalTextBoxes2 "そのIDを改行で区切って入力してください。">
+<!ENTITY example "例）">
+<!ENTITY googleToolbar "Google ツールバー">
+<!ENTITY googleBarLite "GoogleBar Lite">

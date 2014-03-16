@@ -1,0 +1,24 @@
+<!ENTITY sbconforming.config.title "Impostazioni di Conform SearchBox">
+<!ENTITY general "Generali">
+<!ENTITY baseDomain "Dominio di base">
+<!ENTITY regexps "Espressioni regolari">
+<!ENTITY delete "Elimina">
+<!ENTITY add "Aggiungi">
+<!ENTITY advanced "Avanzate">
+<!ENTITY disableConformSearchBox "Non conformare la barra di ricerca">
+<!ENTITY disableConformSearchBoxWhenTabSwitched "Non conformare la barra di ricerca quando si passa ad un&apos;altra scheda">
+<!ENTITY disableAutomaticLearning "Disattiva l&apos;apprendimento automatico">
+<!ENTITY saveSearchWordForEachTab "Salva i termini di ricerca per ogni scheda">
+<!ENTITY seperateRegExpWithComma "Separare le espressioni regolari tramite virgola (',')">
+<!ENTITY blackList "Lista di esclusione">
+<!ENTITY disableAutomaticLearningInSitesListedHere "Disattiva l&apos;apprendimento automatico nei siti web presenti qui sotto">
+<!ENTITY sbcfm-registerTextBox-accesskey "C">
+<!ENTITY conformSearchBoxWithThisTextBox "Conforma la barra di ricerca al riquadro di testo">
+<!ENTITY extTextBoxes "Riquadri di testo esterni">
+<!ENTITY forTheExperienced "Opzioni per utenti avanzati">
+<!ENTITY conformExternalTextBox "Conforma anche i riquadri di testo esterni (funzione beta)">
+<!ENTITY descriptionOfExternalTextBoxes1 "Per conformare oltre alla barra di ricerca predefinita anche i riquadri di testo esterni">
+<!ENTITY descriptionOfExternalTextBoxes2 "digitare gli ID dei suddetti riquadri, mandando a capo ogni ID, come nel seguente esempio:">
+<!ENTITY example "e.g.">
+<!ENTITY googleToolbar "Google Toolbar: gtbGoogleSearchBox">
+<!ENTITY googleBarLite "GoogleBar Lite: GBL-SearchBox">

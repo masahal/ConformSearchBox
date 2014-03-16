@@ -1,0 +1,24 @@
+<!ENTITY sbconforming.config.title "تأكيد الموافقة على صندوق البحث">
+<!ENTITY general "عام">
+<!ENTITY baseDomain "دومين القاعدة">
+<!ENTITY regexps "التعبيرات العامة">
+<!ENTITY delete "حذف">
+<!ENTITY add "إضافة">
+<!ENTITY advanced "متقدم">
+<!ENTITY disableConformSearchBox "تعطيل تأكيد الموافقة على صندوق البحث">
+<!ENTITY disableConformSearchBoxWhenTabSwitched "تعطيل تأكيد الموافقة على صندوق البحث عندما تكون غيرت لسان التبويب">
+<!ENTITY disableAutomaticLearning "تعطيل التعليم التلقائي">
+<!ENTITY saveSearchWordForEachTab "Save search words for each tab">
+<!ENTITY seperateRegExpWithComma "افصل كل تعبير عام بفاصلة (',').">
+<!ENTITY blackList "القائمة السوداء">
+<!ENTITY disableAutomaticLearningInSitesListedHere "تعطيل التعليم التلقائي في المواقع المسجلة هنا">
+<!ENTITY sbcfm-registerTextBox-accesskey "C">
+<!ENTITY conformSearchBoxWithThisTextBox "أكد موافقتك على صندوق البحث لهذا النص ">
+<!ENTITY extTextBoxes "صناديق بحث خارجية">
+<!ENTITY forTheExperienced "للخبراء">
+<!ENTITY conformExternalTextBox "التأكيد على الموافقة على صناديق البحث الخارجية أيا (هذه وظيفة تجريبية)">
+<!ENTITY descriptionOfExternalTextBoxes1 "إذا أردت تأكيد الموافقة على صناديق البحث الخارجية(تختلف عن صناديق البحث الافتراضية) أيضا">
+<!ENTITY descriptionOfExternalTextBoxes2 "أدخل عناوين صناديق البحث (يفصل كل عنوان بخط فاصل).">
+<!ENTITY example "مثال">
+<!ENTITY googleToolbar "Google Toolbar">
+<!ENTITY googleBarLite "GoogleBar Lite">

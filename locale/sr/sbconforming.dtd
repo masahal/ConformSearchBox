@@ -1,0 +1,24 @@
+<!ENTITY sbconforming.config.title "Conform SearchBox">
+<!ENTITY general "Основно">
+<!ENTITY baseDomain "Основни домен">
+<!ENTITY regexps "Регуларни изрази">
+<!ENTITY delete "Избриши">
+<!ENTITY add "Додај">
+<!ENTITY advanced "Напредно">
+<!ENTITY disableConformSearchBox "Онемогући прилагођавање траке за претрагу">
+<!ENTITY disableConformSearchBoxWhenTabSwitched "Онемогући прилагођавање траке за претрагу када се само пребацим с једног језичка на други">
+<!ENTITY disableAutomaticLearning "Онемогући аутоматско учење">
+<!ENTITY saveSearchWordForEachTab "Сачувај тражене речи за сваки језичак">
+<!ENTITY seperateRegExpWithComma "Сваки регуларни израз одвој зарезом">
+<!ENTITY blackList "Црни списак">
+<!ENTITY disableAutomaticLearningInSitesListedHere "Онемогући аутоматско учење страница које су овде наведене">
+<!ENTITY sbcfm-registerTextBox-accesskey "Р">
+<!ENTITY conformSearchBoxWithThisTextBox "Прилагоди поље за претрагу овом оквиру за текст">
+<!ENTITY extTextBoxes "Спољни оквири за текст">
+<!ENTITY forTheExperienced "За искусне">
+<!ENTITY conformExternalTextBox "Прилагоди и спољне оквире за текст (ово је пробна могућност)">
+<!ENTITY descriptionOfExternalTextBoxes1 "Ако желите да прилагођавање и спољне оквире за текст (осим подразумеваних),">
+<!ENTITY descriptionOfExternalTextBoxes2 "унесите ИД-ове оквира за текст. Сваки ИД пишите у нови ред.">
+<!ENTITY example "на пример">
+<!ENTITY googleToolbar "Гуглова трака са алаткама">
+<!ENTITY googleBarLite "GoogleBar Lite">

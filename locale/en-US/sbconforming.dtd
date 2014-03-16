@@ -1,0 +1,24 @@
+<!ENTITY sbconforming.config.title "Conform SearchBox">
+<!ENTITY general "General">
+<!ENTITY baseDomain "Base Domain">
+<!ENTITY regexps "Regular Expressions">
+<!ENTITY delete "Delete">
+<!ENTITY add "Add">
+<!ENTITY advanced "Advanced">
+<!ENTITY disableConformSearchBox "Disable to conform the search box">
+<!ENTITY disableConformSearchBoxWhenTabSwitched "Disable to conform the search box when you just switch a tab">
+<!ENTITY disableAutomaticLearning "Disable Automatic Learning">
+<!ENTITY saveSearchWordForEachTab "Save search words for each tab">
+<!ENTITY seperateRegExpWithComma "Separate each regular expression with a comma(',').">
+<!ENTITY blackList "Black List">
+<!ENTITY disableAutomaticLearningInSitesListedHere "Disable automatic learning in sites listed here">
+<!ENTITY sbcfm-registerTextBox-accesskey "C">
+<!ENTITY conformSearchBoxWithThisTextBox "Conform the search box to this text box">
+<!ENTITY extTextBoxes "External Text Boxes">
+<!ENTITY forTheExperienced "For The Experienced">
+<!ENTITY conformExternalTextBox "Conform external text boxes, too(This is trial function)">
+<!ENTITY descriptionOfExternalTextBoxes1 "If you want to conform external text boxes (other than the default search box), too,">
+<!ENTITY descriptionOfExternalTextBoxes2 "enter IDs of the text boxes (separate each id with a line break).">
+<!ENTITY example "e.g.">
+<!ENTITY googleToolbar "Google Toolbar">
+<!ENTITY googleBarLite "GoogleBar Lite">

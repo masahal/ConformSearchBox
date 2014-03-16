@@ -1,0 +1,24 @@
+<!ENTITY sbconforming.config.title "Formatar a Caixa de Pesquisa">
+<!ENTITY general "Geral">
+<!ENTITY baseDomain "Domínio Base">
+<!ENTITY regexps "Expressões Comuns">
+<!ENTITY delete "Apagar">
+<!ENTITY add "Acrescentar">
+<!ENTITY advanced "Avançado">
+<!ENTITY disableConformSearchBox "Disabilitar o dimensionamento da caixa de pesquisa">
+<!ENTITY disableConformSearchBoxWhenTabSwitched "Disabilitar o dimensionamento da caixa de pesquisa quando você mudar de aba">
+<!ENTITY disableAutomaticLearning "Desabilitar a Aprendizagem Automática">
+<!ENTITY saveSearchWordForEachTab "Salvar palavras de busca para cada aba">
+<!ENTITY seperateRegExpWithComma "Separe cada expressão regular com uma vírgula (&quot;,&quot;).">
+<!ENTITY blackList "Lista Negra">
+<!ENTITY disableAutomaticLearningInSitesListedHere "Desabilita a aprendizagem automática nos sites listados aqui">
+<!ENTITY sbcfm-registerTextBox-accesskey "C">
+<!ENTITY conformSearchBoxWithThisTextBox "Conformar a caixa de busca a esta caixa de texto">
+<!ENTITY extTextBoxes "Caixas de Texto Externas">
+<!ENTITY forTheExperienced "Para os Experientes">
+<!ENTITY conformExternalTextBox "Compor as caixas de texto externas também (Esta é uma função experimental)">
+<!ENTITY descriptionOfExternalTextBoxes1 "Se você quer compor caixas de texto externas também (outras que não a caixa de busca padrão),">
+<!ENTITY descriptionOfExternalTextBoxes2 "entre as ID das caixas de texto (coloque cada ID em uma linha).">
+<!ENTITY example "por exemplo">
+<!ENTITY googleToolbar "Google Toolbar">
+<!ENTITY googleBarLite "GoogleBar Lite">

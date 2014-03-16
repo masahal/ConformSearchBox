@@ -1,0 +1,27 @@
+radio[pane] {
+	list-style-image: url("chrome://sbconforming/skin/buttons.png");
+}
+radio[pane=sbprefGeneral] {
+	-moz-image-region: rect(0px, 32px, 32px, 0px);
+}
+radio[pane=sbprefGeneral]:hover, radio[pane=sbprefGeneral][selected="true"] {
+	-moz-image-region: rect(32px, 32px, 64px, 0px)
+}
+radio[pane=sbprefAdvanced] {
+	-moz-image-region: rect(0px, 64px, 32px, 32px);
+}
+radio[pane=sbprefAdvanced]:hover, radio[pane=sbprefAdvanced][selected="true"] {
+	-moz-image-region: rect(32px, 64px, 64px, 32px)
+}
+radio[pane=sbprefBlackList] {
+	-moz-image-region: rect(0px, 96px, 32px, 64px);
+}
+radio[pane=sbprefBlackList]:hover, radio[pane=sbprefBlackList][selected="true"] {
+	-moz-image-region: rect(32px, 96px, 64px, 64px)
+}
+radio[pane=sbprefExtTextBoxes] {
+	-moz-image-region: rect(0px, 128px, 32px, 96px);
+}
+radio[pane=sbprefExtTextBoxes]:hover, radio[pane=sbprefExtTextBoxes][selected="true"] {
+	-moz-image-region: rect(32px, 128px, 64px, 96px)
+}

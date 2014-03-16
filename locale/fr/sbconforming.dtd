@@ -1,0 +1,24 @@
+<!ENTITY sbconforming.config.title "Ajuster la Boite de Recherche">
+<!ENTITY general "Général">
+<!ENTITY baseDomain "Domaines de Base">
+<!ENTITY regexps "Expression Régulière">
+<!ENTITY delete "Supprimer">
+<!ENTITY add "Ajouter">
+<!ENTITY advanced "Avancé">
+<!ENTITY disableConformSearchBox "Désactiver pour ajuster la zone de recherche">
+<!ENTITY disableConformSearchBoxWhenTabSwitched "Désactiver pour ajuster la zone de recherche lorsque vous changez d'onglet">
+<!ENTITY disableAutomaticLearning "Désactiver l'Apprentissage Automatique">
+<!ENTITY saveSearchWordForEachTab "Enregistrer les mots-clés recherchés pour chaque onglet">
+<!ENTITY seperateRegExpWithComma "Sépare chaque expression régulière avec une virgule (',').">
+<!ENTITY blackList "Liste Noire">
+<!ENTITY disableAutomaticLearningInSitesListedHere "Désactiver l'apprentissage automatique pour les sites listés ici">
+<!ENTITY sbcfm-registerTextBox-accesskey "C">
+<!ENTITY conformSearchBoxWithThisTextBox "Ajuster la boite de recherche à cette boite de texte">
+<!ENTITY extTextBoxes "Boites de Texte Externes">
+<!ENTITY forTheExperienced "Pour Expérimenté">
+<!ENTITY conformExternalTextBox "Ajuster le boites de texte externes aussi (c'est une fonction à l'essai)">
+<!ENTITY descriptionOfExternalTextBoxes1 "Si vous voulez ajuster le boites de texte externes aussi (autre que la boite de recherche par défaut)">
+<!ENTITY descriptionOfExternalTextBoxes2 "entrer l'ID des boites de texte (séparer chaque id avec un retour à la ligne)">
+<!ENTITY example "ex.">
+<!ENTITY googleToolbar "Google Toolbar">
+<!ENTITY googleBarLite "GoogleBar Lite">

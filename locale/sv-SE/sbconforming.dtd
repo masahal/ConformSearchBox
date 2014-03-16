@@ -1,0 +1,24 @@
+<!ENTITY sbconforming.config.title "Inställningar för Conform SearchBox">
+<!ENTITY general "Allmänt">
+<!ENTITY baseDomain "Huvuddomän">
+<!ENTITY regexps "Reguljära uttryck">
+<!ENTITY delete "Ta bort">
+<!ENTITY add "Lägg till">
+<!ENTITY advanced "Avancerat">
+<!ENTITY disableConformSearchBox "Inaktivera synkronisering av sökrutor">
+<!ENTITY disableConformSearchBoxWhenTabSwitched "Inaktivera synkronisering av sökrutor vid byte av flik">
+<!ENTITY disableAutomaticLearning "Inaktivera automatisk inlärning">
+<!ENTITY saveSearchWordForEachTab "Spara sökord för varje enskild flik">
+<!ENTITY seperateRegExpWithComma "Separera varje reguljärt uttryck med ett kommatecken (,).">
+<!ENTITY blackList "Blockerade objekt">
+<!ENTITY disableAutomaticLearningInSitesListedHere "Inaktivera automatisk inlärning för webbplatserna i listan.">
+<!ENTITY sbcfm-registerTextBox-accesskey "y">
+<!ENTITY conformSearchBoxWithThisTextBox "Synka sökrutan med denna textruta">
+<!ENTITY extTextBoxes "Externa textrutor">
+<!ENTITY forTheExperienced "För den erfarne">
+<!ENTITY conformExternalTextBox "Synkronisera även externa textrutor (experimentell)">
+<!ENTITY descriptionOfExternalTextBoxes1 "Om du även vill synkronisera externa textrutor (utöver standardsökrutan),">
+<!ENTITY descriptionOfExternalTextBoxes2 "ange ID:n för textrutorna (separera varje ID med en radbrytning).">
+<!ENTITY example "t.ex.">
+<!ENTITY googleToolbar "Google Verktygsfält">
+<!ENTITY googleBarLite "Googlebar Lite">

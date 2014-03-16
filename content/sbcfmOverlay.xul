@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="chrome://global/skin/global.css" type="text/css"?>
+<?xml-stylesheet href="chrome://sbconforming/skin/sbconforming.css" type="text/css"?>
+
+<!DOCTYPE window SYSTEM "chrome://sbconforming/locale/sbconforming.dtd">
+
+<overlay id="sbconforming" 
+	xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	<stringbundleset id="stringbundleset"> 
+		<stringbundle id="sbconforming-bundle" src="chrome://sbconforming/locale/strings.properties" /> 
+	</stringbundleset> 
+  <menupopup id="contentAreaContextMenu">
+    <menuitem id="sbcfm-searchfield-register"
+              label="&conformSearchBoxWithThisTextBox;"
+			  			type="checkbox"
+              accesskey="&sbcfm-registerTextBox-accesskey;"
+              oncommand="sbcfmOverlay.registerTextBox(event);"
+              insertafter="context-keywordfield" />
+  </menupopup>
+	<script type="application/x-javascript" src="chrome://sbconforming/content/sbcfmOverlay.js" />
+	<script type="application/x-javascript" src="chrome://sbconforming/content/sbcfmCommon.js" />
+	<script type="application/x-javascript" src="chrome://sbconforming/content/ecl.js" />
+</overlay>

@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/global.css" type="text/css"?>
+<?xml-stylesheet href="chrome://sbconforming/skin/sbconforming.css" type="text/css"?>
+
+<!DOCTYPE prefwindow SYSTEM "chrome://sbconforming/locale/sbconforming.dtd">
+
+<prefwindow id="sbconforming.pref"
+	title="&sbconforming.config.title;"
+	xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+	onload="sbcfmOption.Init();"
+	ondialogaccept="return sbcfmOption.onDialogAccept();"
+	onbeforeaccept="return sbcfmOption.setExternalTextBoxes();">
+	<prefpane id="sbprefGeneral" label="&general;">
+		<preferences/>
+		<stringbundleset id="sbcfm-pref-sbs">
+			<stringbundle id="sbcfm-pref-bundle" src="chrome://sbconforming/locale/strings.properties"/>
+		</stringbundleset>
+		<grid>
+			<columns>
+				<column/>
+				<column/>
+			</columns>
+			<rows>
+				<row align="center">
+					<listbox id="pref.general.itemList" onselect="sbcfmOption.itemListSelected()">
+						<listhead>
+							<listheader label="&baseDomain;"/>
+							<listheader label="&regexps;"/>
+						</listhead>
+						<listcols>
+							<listcol width="150"/>
+							<listcol width="200"/>
+						</listcols>
+					</listbox>
+					<button id="delbut" label="&delete;" oncommand="sbcfmOption.listDelete('pref.general.itemList');"/>
+				</row>
+				<separator class="thin"/>
+				<row align="center">
+					<hbox>
+						<textbox id="pref.general.baseDomain" flex="1" oninput="sbcfmOption.baseDomainEdited()" onkeypress="sbcfmOption.onKeyPress(event);"/>
+						<textbox id="pref.general.regexp" flex="1" onkeypress="sbcfmOption.onKeyPress(event);"/>
+					</hbox>
+					<button id="pref.general.addNewItem" label="&add;" oncommand="sbcfmOption.addNewItem();"/>
+				</row>
+			</rows>
+		</grid>
+		<separator class="thin"/>
+		<label value="&seperateRegExpWithComma;"/>
+	</prefpane>
+	<prefpane id="sbprefAdvanced" label="&advanced;">
+		<preferences>
+			<preference id="extensions.sbconforming.advanced.disableConformSearchBox" name="extensions.sbconforming.advanced.disableConformSearchBox" type="bool"/>
+			<preference id="extensions.sbconforming.advanced.saveSearchWordForEachTab" name="extensions.sbconforming.advanced.saveSearchWordForEachTab" type="bool"/>
+			<preference id="extensions.sbconforming.advanced.disableConformSearchBoxWhenTabSwitched" name="extensions.sbconforming.advanced.disableConformSearchBoxWhenTabSwitched" type="bool"/>
+			<preference id="extensions.sbconforming.advanced.disableAutomaticLearning" name="extensions.sbconforming.advanced.disableAutomaticLearning" type="bool"/>
+		</preferences>
+		<groupbox>
+            <checkbox label="&disableConformSearchBoxWhenTabSwitched;" preference="extensions.sbconforming.advanced.disableConformSearchBoxWhenTabSwitched" id="prefs.advanced.disableConformSearchBoxWhenTabSwitched"/>
+            <checkbox label="&saveSearchWordForEachTab;" preference="extensions.sbconforming.advanced.saveSearchWordForEachTab" id="prefs.advanced.saveSearchWordForEachTab"/>
+	          <separator class="groove"/>
+            <checkbox label="&disableConformSearchBox;" preference="extensions.sbconforming.advanced.disableConformSearchBox" id="prefs.advanced.disableConformSearchBox"/>
+            <checkbox label="&disableAutomaticLearning;" preference="extensions.sbconforming.advanced.disableAutomaticLearning"  id="prefs.advanced.disableAutomaticLearning"/>
+		</groupbox>
+	</prefpane>
+	<prefpane id="sbprefBlackList" label="&blackList;">
+		<preferences/>
+		<groupbox>
+			<caption label="&disableAutomaticLearningInSitesListedHere;"/>
+			<listbox id="pref.blackList.listbox" width="250">
+			</listbox>
+			<separator class="thin"/>
+			<hbox>
+				<button id="pref.general.addbut" label="&add;" oncommand="sbcfmOption.addBlackList();"/>
+				<button id="pref.general.delbut" label="&delete;" oncommand="sbcfmOption.deleteBlackList();"/>
+			</hbox>
+		</groupbox>
+	</prefpane>
+	<prefpane id="sbprefExtTextBoxes" label="&extTextBoxes;">
+		<preferences>
+			<preference id="extensions.sbconforming.conformExternalTextBox" name="extensions.sbconforming.conformExternalTextBox" type="bool"/>
+		</preferences>
+		<groupbox>
+			<caption label="&forTheExperienced;"/>
+			<checkbox id="prefs.conformExternalTextBox" label="&conformExternalTextBox;" preference="extensions.sbconforming.conformExternalTextBox"/>
+			<textbox id="extTextBoxes" multiline="true"/>
+			<description maxwidth="410">&descriptionOfExternalTextBoxes1; &descriptionOfExternalTextBoxes2;</description>
+			<label value="&example;"/>
+			<label value="&googleToolbar;: gtbGoogleSearchBox"/>
+			<label value="&googleBarLite;: GBL-SearchBox"/>
+		</groupbox>
+		<separator/>
+	</prefpane>
+	<script type="application/x-javascript" src="sbcfmOption.js"/>
+	<script type="application/x-javascript" src="sbcfmCommon.js"/>
+</prefwindow>

@@ -1,0 +1,24 @@
+<!ENTITY sbconforming.config.title "Conform the SearchBox">
+<!ENTITY general "Allgemein">
+<!ENTITY baseDomain "Basisdomain">
+<!ENTITY regexps "Reguläre Ausdrücke">
+<!ENTITY delete "Löschen">
+<!ENTITY add "Hinzufügen">
+<!ENTITY advanced "Erweitert">
+<!ENTITY disableConformSearchBox "Deaktivieren um das Suchfeld anzupassen">
+<!ENTITY disableConformSearchBoxWhenTabSwitched "Deaktivieren um das Suchfeld anzupassen wenn Sie den Tab wechseln">
+<!ENTITY disableAutomaticLearning "Selbstlernmodus deaktivieren">
+<!ENTITY saveSearchWordForEachTab "Suchbegriff für jedes Tab speichern">
+<!ENTITY seperateRegExpWithComma "Jeden regulären Ausdruck mittels Komma (&quot;,&quot;) trennen.">
+<!ENTITY blackList "Blacklist">
+<!ENTITY disableAutomaticLearningInSitesListedHere "Selbstlernmodus bei nachfolgend gelisteten Seiten deaktivieren">
+<!ENTITY sbcfm-registerTextBox-accesskey "C">
+<!ENTITY conformSearchBoxWithThisTextBox "Suchfeld mit diesem Eingabefeld anpassen">
+<!ENTITY extTextBoxes "externe Eingabefelder">
+<!ENTITY forTheExperienced "Für Erfahrene">
+<!ENTITY conformExternalTextBox "externe Eingabefelder ebenfalls anpassen (probeweise)">
+<!ENTITY descriptionOfExternalTextBoxes1 "Wenn sie externe Textfelder (andere als das Standardsuchfeld) ebenfalls anpassen wollen,">
+<!ENTITY descriptionOfExternalTextBoxes2 "geben sie bitte die ID der Textbox (jede einzelne durch Leertaste getrennt) an.">
+<!ENTITY example "z.B.">
+<!ENTITY googleToolbar "Google Toolbar">
+<!ENTITY googleBarLite "GoogleBar Lite">

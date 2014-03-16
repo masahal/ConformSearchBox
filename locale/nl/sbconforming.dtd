@@ -1,0 +1,24 @@
+<!ENTITY sbconforming.config.title "Zoekbalk omzetten">
+<!ENTITY general "Algemeen">
+<!ENTITY baseDomain "Basisdomein">
+<!ENTITY regexps "Gebruikelijke expressies">
+<!ENTITY delete "Verwijder">
+<!ENTITY add "Voeg toe">
+<!ENTITY advanced "Geavanceerd">
+<!ENTITY disableConformSearchBox "Uitschakelen om de zoekbalk om te zetten">
+<!ENTITY disableConformSearchBoxWhenTabSwitched "Uitschakelen om de zoekbalk om te zetten als je net van tabblad wisselt.">
+<!ENTITY disableAutomaticLearning "Schakel Automatisch Leren uit">
+<!ENTITY saveSearchWordForEachTab "Save search words for each tab">
+<!ENTITY seperateRegExpWithComma "Separate each regular expression with a comma(',').">
+<!ENTITY blackList "Zwarte lijst">
+<!ENTITY disableAutomaticLearningInSitesListedHere "Disable automatic learning in sites listed here">
+<!ENTITY sbcfm-registerTextBox-accesskey "C">
+<!ENTITY conformSearchBoxWithThisTextBox "Conform the search box to this text box">
+<!ENTITY extTextBoxes "Externe Tekstbalken">
+<!ENTITY forTheExperienced "Voor De Ervaren">
+<!ENTITY conformExternalTextBox "Zet ook externe zoekbalken om (Dit is een trial functie)">
+<!ENTITY descriptionOfExternalTextBoxes1 "If you want to conform external text boxes (other than the default search box), too,">
+<!ENTITY descriptionOfExternalTextBoxes2 "enter IDs of the text boxes (separate each id with a line break).">
+<!ENTITY example "bijvoorbeeld">
+<!ENTITY googleToolbar "Google Toolbar">
+<!ENTITY googleBarLite "GoogleBar Lite">

@@ -1,0 +1,24 @@
+<!ENTITY sbconforming.config.title "Conform the SearchBox">
+<!ENTITY general "Genel">
+<!ENTITY baseDomain "Temel Alan">
+<!ENTITY regexps "Düzenli İfadeler">
+<!ENTITY delete "Sil">
+<!ENTITY add "Ekle">
+<!ENTITY advanced "Gelişmiş">
+<!ENTITY disableConformSearchBox "Arama kutusunu uyumunu devre dışı bırak">
+<!ENTITY disableConformSearchBoxWhenTabSwitched "Yeni bir taba geçildiğinde arama kutusunu uyumunu devre dışı bırak">
+<!ENTITY disableAutomaticLearning "Otomatik Öğrenmeyi devre dışı bırak">
+<!ENTITY saveSearchWordForEachTab "Save search words for each tab">
+<!ENTITY seperateRegExpWithComma "Her düzenli ifadeyi bir virgülle (,) ayırın.">
+<!ENTITY blackList "Kara Liste">
+<!ENTITY disableAutomaticLearningInSitesListedHere "Burada listelenen sitelerde otomatik öğrenmeyi devre dışı bırak">
+<!ENTITY sbcfm-registerTextBox-accesskey "C">
+<!ENTITY conformSearchBoxWithThisTextBox "Arama kutusunu bu kutuya uygula">
+<!ENTITY extTextBoxes "Harici Metin Kutuları">
+<!ENTITY forTheExperienced "Deneyimliler İçin">
+<!ENTITY conformExternalTextBox "Harici metin kutularını da uygula (Bu deneme işlevidir)">
+<!ENTITY descriptionOfExternalTextBoxes1 "Harici metin kutularını uygulamak isterseniz (">
+<!ENTITY descriptionOfExternalTextBoxes2 "(her satıra bir ID gelecek şekilde) metin kutularının ID'lerini girin.">
+<!ENTITY example "ör.">
+<!ENTITY googleToolbar "Google Araç Çubuğu">
+<!ENTITY googleBarLite "GoogleBar Lite">

@@ -1,0 +1,17 @@
+overlay chrome://browser/content/browser.xul chrome://sbconforming/content/sbcfmOverlay.xul
+
+content sbconforming	content/
+skin	sbconforming	classic/1.0	skin/
+locale	sbconforming	en-US	locale/en-US/
+locale	sbconforming	ja		locale/ja/
+locale	sbconforming	ar-SA	locale/ar-SA/
+locale	sbconforming	de	locale/de/
+locale	sbconforming	fr	locale/fr/
+locale	sbconforming	it		locale/it/
+locale	sbconforming	nl	locale/nl/
+locale	sbconforming	pl	locale/pl/
+locale	sbconforming	pt-BR	locale/pt-BR/
+locale	sbconforming	sr	locale/sr/
+locale	sbconforming	sv-SE	locale/sv-SE/
+locale	sbconforming	tr-TR	locale/tr-TR/
+locale	sbconforming	zh-CN	locale/zh-CN/
